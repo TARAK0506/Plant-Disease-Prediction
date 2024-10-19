@@ -1,0 +1,13 @@
+venv
+venv/
+*.h5
+Notebooks/
+*.log
+*.tmp
+*.tmp.*
+*.swp
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+*.pyd
+
